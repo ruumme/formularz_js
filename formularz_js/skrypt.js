@@ -1,0 +1,3 @@
+boom() {
+    alert('działa!');
+}
